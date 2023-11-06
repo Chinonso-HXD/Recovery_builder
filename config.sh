@@ -3,7 +3,7 @@
 # about the custom recovery
 export NAME="shrp" # supported: pbrp, shrp, twrp
 export MANIFEST="https://github.com/SHRP/manifest.git" # the link of manifest
-export BRANCH="twrp-9.0" # the branch of manifest
+export BRANCH="v3_11.0" # the branch of manifest
 
 # about your device
 export DEVICE="x657c" # codename used in device tree
